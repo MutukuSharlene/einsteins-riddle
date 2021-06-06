@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Einsteins Riddle\bin\Debug\netcoreapp3.1\Einsteins Riddle.exe
+C:\xampp\htdocs\Einsteins Riddle\bin\Debug\netcoreapp3.1\Einsteins Riddle.deps.json
+C:\xampp\htdocs\Einsteins Riddle\bin\Debug\netcoreapp3.1\Einsteins Riddle.runtimeconfig.json
+C:\xampp\htdocs\Einsteins Riddle\bin\Debug\netcoreapp3.1\Einsteins Riddle.runtimeconfig.dev.json
+C:\xampp\htdocs\Einsteins Riddle\bin\Debug\netcoreapp3.1\Einsteins Riddle.dll
+C:\xampp\htdocs\Einsteins Riddle\bin\Debug\netcoreapp3.1\Einsteins Riddle.pdb
+C:\xampp\htdocs\Einsteins Riddle\obj\Debug\netcoreapp3.1\Einsteins Riddle.csprojAssemblyReference.cache
+C:\xampp\htdocs\Einsteins Riddle\obj\Debug\netcoreapp3.1\Einsteins Riddle.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Einsteins Riddle\obj\Debug\netcoreapp3.1\Einsteins Riddle.AssemblyInfo.cs
+C:\xampp\htdocs\Einsteins Riddle\obj\Debug\netcoreapp3.1\Einsteins Riddle.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Einsteins Riddle\obj\Debug\netcoreapp3.1\Einsteins Riddle.dll
+C:\xampp\htdocs\Einsteins Riddle\obj\Debug\netcoreapp3.1\Einsteins Riddle.pdb
+C:\xampp\htdocs\Einsteins Riddle\obj\Debug\netcoreapp3.1\Einsteins Riddle.genruntimeconfig.cache
